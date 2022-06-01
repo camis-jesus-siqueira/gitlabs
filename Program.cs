@@ -11,3 +11,8 @@ if(operaçao == "Subtrair")
     {
         Console.WriteLine(n1 - n2);
     }
+    if(operaçao == "Multiplicar")
+    {
+        Console.WriteLine(n1 * n2);
+    }
+
