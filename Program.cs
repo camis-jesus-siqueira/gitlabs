@@ -16,3 +16,4 @@ if(operaçao == "Subtrair")
         Console.WriteLine(n1 * n2);
     }
 
+Console.WriteLine("obrigado por usar o programa");
